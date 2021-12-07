@@ -13,6 +13,6 @@ Realme GT Neo (china version, realmeUI2.0, china rom)
 9) ```Misc Feature Config``` -> ```bSRLTE / hVolte``` -> ```hVolte```をタップして設定
 
 #### 5Gの有効化
-1) 電話アプリから```*#54794824#```を入力
+1) 電話アプリから```*#54794824#*```を入力
 2) ```Enable 5G Switch Display```と表示されたら成功
 3) SIMカードの詳細設定に```スマート5G```という項目が追加されている
